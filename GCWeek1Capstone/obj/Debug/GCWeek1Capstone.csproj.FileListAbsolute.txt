@@ -1,0 +1,7 @@
+C:\Users\mhilty\source\repos\GCWeek1Capstone\GCWeek1Capstone\bin\Debug\GCWeek1Capstone.exe.config
+C:\Users\mhilty\source\repos\GCWeek1Capstone\GCWeek1Capstone\bin\Debug\GCWeek1Capstone.exe
+C:\Users\mhilty\source\repos\GCWeek1Capstone\GCWeek1Capstone\bin\Debug\GCWeek1Capstone.pdb
+C:\Users\mhilty\source\repos\GCWeek1Capstone\GCWeek1Capstone\obj\Debug\GCWeek1Capstone.csprojAssemblyReference.cache
+C:\Users\mhilty\source\repos\GCWeek1Capstone\GCWeek1Capstone\obj\Debug\GCWeek1Capstone.csproj.CoreCompileInputs.cache
+C:\Users\mhilty\source\repos\GCWeek1Capstone\GCWeek1Capstone\obj\Debug\GCWeek1Capstone.exe
+C:\Users\mhilty\source\repos\GCWeek1Capstone\GCWeek1Capstone\obj\Debug\GCWeek1Capstone.pdb

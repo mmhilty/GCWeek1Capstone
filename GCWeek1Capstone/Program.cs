@@ -35,7 +35,6 @@ namespace GCWeek1Capstone
 
                 foreach(string word in wordList)
                 {
-                    //VALIDATION if word contains ONLY punctuation or numbers - NOT WORKING YET
 
                     if (Regex.IsMatch(word, @"[\@\.1-9 ]"))
                     {
@@ -56,9 +55,9 @@ namespace GCWeek1Capstone
 
                 if (userInputStringORIG.Substring(userInputStringORIG.Length - 1) == "." ||
                     userInputStringORIG.Substring(userInputStringORIG.Length - 1) == "!" ||
-                    userInputStringORIG.Substring(userInputStringORIG.Length - 1) == "?") //scrubs punctuation off end 
+                    userInputStringORIG.Substring(userInputStringORIG.Length - 1) == "?")  
                 {
-                    Console.WriteLine(outputSentence + userInputStringORIG.Substring(userInputStringORIG.Length - 1));
+                    Console.WriteLine(outputSentence + userInputStringORIG.Substring(userInputStringORIG.Length - 1)); //puts punctuation back
                 }
 
                 else //no punctuation originally
